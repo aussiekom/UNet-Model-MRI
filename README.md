@@ -5,7 +5,7 @@ The code provided is a Python implementation of a brain segmentation model using
 
 ## Code Structure
 
-The code is organized into several sections:
+The process is organized into several sections:
 
 * Importing Dependencies: The required libraries and modules are imported, including PyTorch, NumPy, Matplotlib, and skimage.
 * Data Preprocessing: Several functions are defined to preprocess the brain MRI data. These functions include cropping the volumes, padding them to a square shape, resizing them to a specific size, and normalizing the intensity values.
